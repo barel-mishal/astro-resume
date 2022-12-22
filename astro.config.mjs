@@ -11,4 +11,6 @@ export default defineConfig({
       external: ['svgo'],
     },
   },
+  site: 'https://barel-mishal.github.io',
+  base: '/astro-resume',
 });
