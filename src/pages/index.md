@@ -1,61 +1,55 @@
 ---
-title: Richard Hendriks - Resume
+title: Barel Mishal - Resume
 layout: ../layouts/Minimalist.astro
-pdfLink: resume.pdf
+# pdfLink: resume.pdf
 ---
 
-# Richard Hendriks
+# Barel Mishal
+<!-- github, linkdin, phone,  -->
 
 **Programmer**
 
-San Francisco, USA | richard.hendriks@gmail.com | http://richardhendricks.com
+Isreal Ramat Gan, IL | barel.mishal@mail.huji.ac.il | 0509042020 | [GitHub](<https://github.com/barel-mishal>) | [Linkedin](<https://www.linkedin.com/in/barel-mishal/>) 
 
-Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!
+Barel Mishal is a self-taught programmer from Ramat Gan, Israel. He holds a B.Sc from the Hebrew University. Currently, he is working on a large project called NutriPlay, which is a website that helps nutritionists create nutritional anamneses and provides helpful search capabilities for the Ministry of Health's nutrition database. He aspires to be a software engineer, working on big projects in the field of nutrition to make a change.
 
 ## Work Experience
 
-### [Google](https://www.google.com/)
+### [NutriPlay](<https://nutriplay.io>)
 
-#### Senior Software Engineer | Oct 2022 - Current
+#### SEO and Engineer of NutriPlay | Aug 2021 - Current
 
-Elit mollit ipsum fugiat enim labore et non. Amet nulla cupidatat esse est qui magna culpa velit magna excepteur proident Lorem aliquip ullamco. Anim culpa sit cillum enim consectetur aliqua id Lorem aute id id laborum. Sit nostrud ea anim et deserunt cillum sint culpa laboris. Nisi magna amet minim esse dolore. Do officia ipsum duis exercitation incididunt irure pariatur.
+Today, nutritionists do not have a good program to search and record the nutritional needs of their patients. NutriPlay aims to solve this problem by enhancing the smart search feature with algorithms such as word distance and ranking algorithms to sort the nutrtional dataset of Ministry of health. Additionally, it provides a fast tool to calculate all the food items that their patients eat in order to create a nutritional anamnesis. This project has seen some success, with around 30 people using it each week, and has been approached by the head of research at the Ministry of Health.
 
-#### Software Engineer | Aug 2018 - Oct 2022
+#### Software Engineer At Betty Lab | Jun 2020 - Aug 2021
 
-Elit mollit ipsum fugiat enim labore et non. Amet nulla cupidatat esse est qui magna culpa velit magna excepteur proident Lorem aliquip ullamco. Anim culpa sit cillum enim consectetur aliqua id Lorem aute id id laborum. Sit nostrud ea anim et deserunt cillum sint culpa laboris. Nisi magna amet minim esse dolore. Do officia ipsum duis exercitation incididunt irure pariatur.
+The lab is trying to understand the metabolic pathways and the effect of nutrition on the body. In our experiments and those of other labs, we use our metabolic cages to evaluate the life parameters and habits of mice, such as oxygen consumption, carbon dioxide production, movements, and more. This tool provides extensive datasets for our experiments. Our main task was to create an analysis tool to help the researchers gain the insights they need. This work was done in conjunction with a course at the university called "Targil Mehkar," and the results were documented in an article (written in Hebrew).
 
-### [Pied Piper](http://piedpiper.com/)
+#### Personal Trainer 4 Years Experience | Feb 2014 - Feb 2018
 
-#### CEO/President | Dec 2013 - Dec 2014
-
-Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.
-
-- Build an algorithm for artist to detect if their music was violating copy right infringement laws
-- Successfully won Techcrunch Disrupt
-- Optimized an algorithm that holds the current world record for Weisman Scores
-
-## Projects
-
-### [Sillicon Valley](<https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)>)
-
-#### Occaecat qui Lorem adipisicing ut sunt aute. | Oct 2014
-
-Nisi sit consectetur consectetur nulla. Nulla nostrud aliqua duis aliquip sunt. Cupidatat commodo cillum dolore nulla veniam enim in enim sint velit proident. Cupidatat laboris exercitation aliquip dolore eu elit. In mollit veniam eiusmod irure anim sit aute eu magna cillum. Sint aute irure laboris aute officia in velit in irure deserunt. Incididunt mollit mollit pariatur laborum laboris mollit ad enim ipsum deserunt. Ad tempor nulla occaecat consequat dolor nulla
-
-#### Video Compression for 3D Media
-
-#### Founder | Oct 2014
-
-Innovative middle-out compression algorithm that changes the way we store data.
-
-## Languages
-
-| English        |
-| -------------- |
-| Native speaker |
+At the gym, work as a personal trainer, instructor for group classes, and gym instructor. Acquired several certificates, including ones in Pilates, HIIT, and Suples training equipment. Worked with people of all ages. Able to help 15 trainees each week reach their goals by providing personalized training programs and guidance. Knowledge and expertise in various fitness techniques used to design effective workout plans for each individual and supported them in their journey to better health and fitness.
 
 ## Education
 
-### University of Oklahoma
+### [Zero To Mastery](<https://zerotomastery.io/>) | [NeetCode](<https://neetcode.io/>) 
 
-#### Bachelor, Information Technology | Jun 2011 - Jan 2014
+#### Self Education computer science at ZTM, neetCode and youtube | Mar 2020 - Current 
+1. Complete SQL + Databases Bootcamp: Zero to Mastery - **Finish**
+2. The Complete Web Developer in 2023: Zero to Mastery - **Finish**
+3. Complete Python Developer in 2023: Zero To Mastery - **Finish**
+4. Complete Node.js Developer in 2023: Zero to Mastery - **Halfway**
+5. Algorithms and Data Structures for Beginners - **Halfway**
+
+
+### [Hebrew University](<https://new.huji.ac.il/>) 
+
+#### B.Sc in Nutrition Science from the Hebrew University | Nov 2018 - Aug 2021
+
+GPA - 84
+Targil Mehkar - 100
+
+## Languages
+
+| Hebrew | English |
+| -------| ------- |
+| Native | Fluent  |

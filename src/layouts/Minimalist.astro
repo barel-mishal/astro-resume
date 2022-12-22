@@ -9,7 +9,7 @@ export interface Props {
   noIndex?: boolean;
 }
 
-const { title, pdfLink, noIndex } = Astro.props.frontmatter as Props;
+const { title, pdfLink = '', noIndex } = Astro.props.frontmatter as Props;
 
 const initials = title
   .split(' ')
