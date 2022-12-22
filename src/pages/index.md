@@ -14,7 +14,7 @@ Isreal Ramat Gan, IL | barel.mishal@mail.huji.ac.il | 0509042020 | [GitHub](<htt
 Barel Mishal is a self-taught programmer from Ramat Gan, Israel. He holds a B.Sc from the Hebrew University. Currently, he is working on a large project called NutriPlay, which is a website that helps nutritionists create nutritional anamneses and provides helpful search capabilities for the Ministry of Health's nutrition database. He aspires to be a software engineer, working on big projects in the field of nutrition to make a change.
 
 ## Work Experience
-
+ 
 ### [NutriPlay](<https://nutriplay.io>)
 
 #### SEO and Engineer of NutriPlay | Aug 2021 - Current
