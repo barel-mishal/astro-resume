@@ -78,6 +78,14 @@
     uvu "^0.5.0"
     vfile-message "^3.0.0"
 
+"@astrojs/netlify@^1.3.0":
+  version "1.3.0"
+  resolved "https://registry.npmjs.org/@astrojs/netlify/-/netlify-1.3.0.tgz"
+  integrity sha512-bSKRXqhrDVIEq+aF0bhgKYQb11rMKL/G0U2/dKauxrxYT9EardFZAPFRkFOlJUwMxBZ3KbdnnUebfh1m0PauQQ==
+  dependencies:
+    "@astrojs/webapi" "^1.1.1"
+    esbuild "^0.15.18"
+
 "@astrojs/prism@^1.0.0":
   version "1.0.1"
   resolved "https://registry.npmjs.org/@astrojs/prism/-/prism-1.0.1.tgz"
@@ -1261,6 +1269,11 @@ esbuild-linux-64@0.15.12:
   resolved "https://registry.npmjs.org/esbuild-linux-64/-/esbuild-linux-64-0.15.12.tgz"
   integrity sha512-QcgCKb7zfJxqT9o5z9ZUeGH1k8N6iX1Y7VNsEi5F9+HzN1OIx7ESxtQXDN9jbeUSPiRH1n9cw6gFT3H4qbdvcA==
 
+esbuild-linux-64@0.15.18:
+  version "0.15.18"
+  resolved "https://registry.npmjs.org/esbuild-linux-64/-/esbuild-linux-64-0.15.18.tgz"
+  integrity sha512-hNSeP97IviD7oxLKFuii5sDPJ+QHeiFTFLoLm7NZQligur8poNOWGIgpQ7Qf8Balb69hptMZzyOBIPtY09GZYw==
+
 esbuild@^0.14.0, esbuild@^0.14.43:
   version "0.14.54"
   resolved "https://registry.npmjs.org/esbuild/-/esbuild-0.14.54.tgz"
@@ -1287,6 +1300,34 @@ esbuild@^0.14.0, esbuild@^0.14.43:
     esbuild-windows-32 "0.14.54"
     esbuild-windows-64 "0.14.54"
     esbuild-windows-arm64 "0.14.54"
+
+esbuild@^0.15.18:
+  version "0.15.18"
+  resolved "https://registry.npmjs.org/esbuild/-/esbuild-0.15.18.tgz"
+  integrity sha512-x/R72SmW3sSFRm5zrrIjAhCeQSAWoni3CmHEqfQrZIQTM3lVCdehdwuIqaOtfC2slvpdlLa62GYoN8SxT23m6Q==
+  optionalDependencies:
+    "@esbuild/android-arm" "0.15.18"
+    "@esbuild/linux-loong64" "0.15.18"
+    esbuild-android-64 "0.15.18"
+    esbuild-android-arm64 "0.15.18"
+    esbuild-darwin-64 "0.15.18"
+    esbuild-darwin-arm64 "0.15.18"
+    esbuild-freebsd-64 "0.15.18"
+    esbuild-freebsd-arm64 "0.15.18"
+    esbuild-linux-32 "0.15.18"
+    esbuild-linux-64 "0.15.18"
+    esbuild-linux-arm "0.15.18"
+    esbuild-linux-arm64 "0.15.18"
+    esbuild-linux-mips64le "0.15.18"
+    esbuild-linux-ppc64le "0.15.18"
+    esbuild-linux-riscv64 "0.15.18"
+    esbuild-linux-s390x "0.15.18"
+    esbuild-netbsd-64 "0.15.18"
+    esbuild-openbsd-64 "0.15.18"
+    esbuild-sunos-64 "0.15.18"
+    esbuild-windows-32 "0.15.18"
+    esbuild-windows-64 "0.15.18"
+    esbuild-windows-arm64 "0.15.18"
 
 esbuild@^0.15.9:
   version "0.15.12"
