@@ -21,9 +21,11 @@ Barel Mishal is a self-taught programmer from Ramat Gan, Israel. He holds a B.Sc
 
 Today, nutritionists do not have a good program to search and record the nutritional needs of their patients. NutriPlay aims to solve this problem by enhancing the smart search feature with algorithms such as word distance and ranking algorithms to sort the nutrtional dataset of Ministry of health. Additionally, it provides a fast tool to calculate all the food items that their patients eat in order to create a nutritional anamnesis. This project has seen some success, with around 30 people using it each week, and has been approached by the head of research at the Ministry of Health.
 
+### [Targil Mehkar](<https://docs.google.com/document/d/1riWszdZaGeG8sQb_88hFiMAbSOKesnofOflr3RHObHo/edit?usp=sharing>)
+
 #### Software Engineer At Betty Lab | Jun 2020 - Aug 2021
 
-The lab is trying to understand the metabolic pathways and the effect of nutrition on the body. In our experiments and those of other labs, we use our metabolic cages to evaluate the life parameters and habits of mice, such as oxygen consumption, carbon dioxide production, movements, and more. This tool provides extensive datasets for our experiments. Our main task was to create an analysis tool to help the researchers gain the insights they need. This work was done in conjunction with a course at the university called "Targil Mehkar," and the results were documented in an article (written in Hebrew).
+The lab is trying to understand the metabolic pathways and the effect of nutrition on the body. In our experiments and those of other labs, we use our metabolic cages to evaluate the life parameters and habits of mice, such as oxygen consumption, carbon dioxide production, movements, and more. This tool provides extensive datasets for our experiments. Our main task was to create an analysis tool to help the researchers gain the insights they need. This work was done in conjunction with a course at the university called "Targil Mehkar", and the results were documented in an article (written in Hebrew).
 
 #### Personal Trainer 4 Years Experience | Feb 2014 - Feb 2018
 
