@@ -45,8 +45,8 @@ At the gym, work as a personal trainer, instructor for group classes, and gym in
 
 #### B.Sc in Nutrition Science from the Hebrew University | Nov 2018 - Aug 2021
 
-GPA - 84
-Targil Mehkar - 100
+* GPA - 84
+* Targil Mehkar - 100
 
 ## Languages
 
