@@ -6,6 +6,9 @@ import tailwind from '@astrojs/tailwind';
 // https://astro.build/config
 export default defineConfig({
   integrations: [tailwind()],
-  site: 'https://barel-mishal.github.io',
-  base: '/astro-resume',
+  vite: {
+    ssr: {
+      external: ['svgo'],
+    },
+  },
 });
