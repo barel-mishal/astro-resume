@@ -23,9 +23,9 @@ Today, nutritionists do not have a good program to search and record the nutriti
 
 ### [Targil Mehkar](<https://docs.google.com/document/d/1riWszdZaGeG8sQb_88hFiMAbSOKesnofOflr3RHObHo/edit?usp=sharing>)
 
-#### Software Engineer At Betty Lab | Jun 2020 - Aug 2021
+#### Software Engineer at Betty Lab | Jun 2020 - Aug 2021
 
-The lab is trying to understand the metabolic pathways and the effect of nutrition on the body. In our experiments and those of other labs, we use our metabolic cages to evaluate the life parameters and habits of mice, such as oxygen consumption, carbon dioxide production, movements, and more. This tool provides extensive datasets for our experiments. Our main task was to create an analysis tool to help the researchers gain the insights they need. This work was done in conjunction with a course at the university called "Targil Mehkar", and the results were documented in an article (written in Hebrew).
+Worked as a software engineer at Betty Lab, focused on understanding the metabolic pathways and the effects of nutrition on the body. In experiments and those of other labs, used metabolic cages to evaluate the life parameters and habits of mice, such as oxygen consumption, carbon dioxide production, movements, and more. Main task was to create an analysis tool to help researchers gain insights from the extensive datasets produced by the metabolic cages. This work was done in conjunction with a course at the university called "Targil Mehkar" and the results were documented in a Hebrew article. Had the opportunity to work closely with Ofer Gover during this time. To request a recommendation, contact Ofer at ofer.gover@mail.huji.ac.il.
 
 #### Personal Trainer 4 Years Experience | Feb 2014 - Feb 2018
 
@@ -57,9 +57,11 @@ At the gym, work as a personal trainer, instructor for group classes, and gym in
 | Native | Fluent  |
 
 ## Skils
-**Lang:** Python, JavaScript, R, shell scripting
+**Languages:** Python, JavaScript, R, Shell Scripting
 
-**Internet:** HTML, CSS, Digital Ocean
+**Databases:** Surreal (multiparadigm database), Xata, Postgres, MongoDB, 
+
+**Internet:** HTML, CSS, Digital Ocean, Bootstrap
 
 **Operating Systems:** Linux Server
 
@@ -68,7 +70,9 @@ At the gym, work as a personal trainer, instructor for group classes, and gym in
 **GitHub:** gh GitHub cli, Poll Request, Open source, GitHub Actions
 
 **Server:** Node.JS, Express
-<!-- db, auth -->
+
+**Security:** Auth by cookies and session, HTTPS
+
 
 <!-- ## Soft skils  -->
 
