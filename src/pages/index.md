@@ -15,13 +15,13 @@ Barel Mishal is a self-taught programmer from Ramat Gan, Israel. He holds a B.Sc
 
 ## Work Experience
  
-### [NutriPlay](<https://nutriplay.io>)
+### [NutriPlay (link)](<https://nutriplay.io>)
 
 #### SEO and Engineer of NutriPlay | Aug 2021 - Current
 
 Today, nutritionists do not have a good program to search and record the nutritional needs of their patients. NutriPlay aims to solve this problem by enhancing the smart search feature with algorithms such as word distance and ranking algorithms to sort the nutrtional dataset of Ministry of health. Additionally, it provides a fast tool to calculate all the food items that their patients eat in order to create a nutritional anamnesis. This project has seen some success, with around 30 people using it each week, and has been approached by the head of research at the Ministry of Health.
 
-### [Targil Mehkar](<https://docs.google.com/document/d/1riWszdZaGeG8sQb_88hFiMAbSOKesnofOflr3RHObHo/edit?usp=sharing>)
+### [Targil Mehkar (link)](<https://docs.google.com/document/d/1riWszdZaGeG8sQb_88hFiMAbSOKesnofOflr3RHObHo/edit?usp=sharing>)
 
 #### Software Engineer at Betty Lab | Jun 2020 - Aug 2021
 
