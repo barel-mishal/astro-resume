@@ -55,3 +55,15 @@ At the gym, work as a personal trainer, instructor for group classes, and gym in
 | Hebrew | English |
 | -------| ------- |
 | Native | Fluent  |
+
+## Skils
+Lang: Python, JavaScript, R, shell scripting
+Internet: HTML, CSS, Digital Ocean, 
+Operating Systems: Linux Server, 
+Framwork: Solid (React like framwork), React (SPA), Astro (MPA)
+GitHub: gh GitHub cli, Poll Request, Open source, GitHub Actions
+Server: Node.JS, Express,
+<!-- db, auth -->
+
+<!-- ## Soft skils  -->
+
