@@ -14,7 +14,7 @@ Self-taught programmer with 3 years of experience in building projects for the n
 
 ## Skills
 
-**Languages:** Python, JavaScript, Shell Scripting, R, Intraste to learn also Rust 
+**Languages:** Python, JavaScript, Shell Scripting, R
 
 **Databases:** SurrealDB, Postgres, MongoDB
 
