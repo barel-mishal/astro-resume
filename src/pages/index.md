@@ -11,10 +11,14 @@ layout: ../layouts/Minimalist.astro
 
 Isreal Ramat Gan, IL | barel.mishal@mail.huji.ac.il | 0509042020 | [GitHub](<https://github.com/barel-mishal>) | [Linkedin](<https://www.linkedin.com/in/barel-mishal/>) 
 
-self-taught programmer from Ramat Gan, Israel. Hold a B.Sc from the Hebrew University. Currently, am working on a large project called NutriPlay, which is a website that helps nutritionists create nutritional anamnesis and provides helpful search capabilities for the Ministry of Health’s nutrition database. Aspire to be a software engineer, working on big projects in the field of nutrition to make a change.
+self-taught programmer from Ramat Gan, Israel. Hold a B.Sc in nutrition from the Hebrew University. Currently, I am currently working on a big project called FoodIt.ai, which is a website designed to generate recipes and assist food bloggers in advertising their creations. The platform provides useful tools for quickly generating recipes and offers a unique platform for recognition on the web. Aspire to be a software engineer, working on big projects in the field of nutrition to make a change.
 
 ## Work Experience
  
+### [FoodIt (link)](<>)
+
+FoodIt is a relatively new project that utilizes the powerful combination of Polars, a dataframe package for creating in-depth analysis, and SurrealDB for efficient data storage and management. The user interface is primarily constructed using SolidJs, while the server utilizes the astro and Express frameworks.
+
 ### [NutriPlay (link)](<https://nutriplay.io>)
 
 #### SEO and Engineer of NutriPlay | Aug 2021 - Current
