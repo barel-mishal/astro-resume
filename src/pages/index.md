@@ -15,7 +15,7 @@ self-taught programmer from Ramat Gan, Israel. Hold a B.Sc in nutrition from the
 
 ## Work Experience
  
-### [FoodIt (link)](<>)
+### [FoodIt](<>)
 
 FoodIt is a relatively new project that utilizes the powerful combination of Polars, a dataframe package for creating in-depth analysis, and SurrealDB for efficient data storage and management. The user interface is primarily constructed using SolidJs, while the server utilizes the Astro and Express frameworks.
 
