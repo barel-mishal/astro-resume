@@ -6,11 +6,11 @@ layout: ../layouts/Minimalist.astro
 
 # Barel Mishal
 
-**Programmer**
+**Software Developer**
 
 Ramat Gan, IL | barel.mishal@mail.huji.ac.il | 0509042020 | [GitHub](<https://github.com/barel-mishal>) | [Linkedin](<https://www.linkedin.com/in/barel-mishal/>) 
 
-Self-taught programmer with 3 years of experience in building projects for the nutrition industry. Currently working on FoodIt.ai, a website designed to generate recipes and assist food bloggers in advertising their creations. Aspire to become a software engineer, working on big projects in the field of nutrition to make a positive impact. Proficient in technologies such as SolidJs, Astro, Express and have experience with dataframe package Polars, SurrealDB and SEO.
+Self-taught programmer from Ramat Gan, Israel. Hold a B.Sc in nutrition from the Hebrew University. Currently, currently working on a big project called FoodIt.ai, which is a website designed to generate recipes and assist food bloggers in advertising their creations. The platform provides useful tools for quickly generating recipes and offers a unique platform for recognition on the web. Aspire to be a software engineer, working on big projects in the field of nutrition to make a change.
 
 ## Skills
 
@@ -32,27 +32,32 @@ Self-taught programmer with 3 years of experience in building projects for the n
 
 **Interest in learning:** Rust, Data Structures and Algorithms
 
-## Work Experience
+## Projects Experience
 
-### [FoodIt](<>)
+<!-- ### [FoodIt](<>)
 
 - Utilized the powerful combination of Polars and SurrealDB for efficient data storage and management.
-- Built the user interface using SolidJs and the server using the Astro and Express frameworks.
+- Built the user interface using SolidJs and the server using the Astro and Express frameworks. -->
 
-### [NutriPlay](<https://nutriplay.io>)
+### [NutriPla](<https://nutriplay.io>)
 
-- SEO and Engineer | Aug 2021 - Current
-- Developed a smart search feature with algorithms such as word distance and ranking algorithms to sort the nutrtional dataset of Ministry of health.
+SEO and Software Engineer | Aug 2021 - Current
+
 - Built a fast tool to calculate all the food items that their patients eat in order to create a nutritional anamnesis.
+- Developed a smart search feature with algorithms such as word distance and ranking algorithms to sort the nutrtional dataset of Ministry of health.
 - Apporached by the head of research at the Ministry of Health.
 
 ### [Targil Mehkar](<https://docs.google.com/document/d/1riWszdZaGeG8sQb_88hFiMAbSOKesnofOflr3RHObHo/edit?usp=sharing>)
 
-- Software Engineer at Betty Lab | Jun 2020 - Aug 2021
+Software Engineer at Betty Lab | Jun 2020 - Aug 2021
+
 - Worked on creating an analysis tool to help researchers gain insights from the extensive datasets produced by the metabolic cages.
 - Worked closely with Ofer Gover during this time.
 
-- Personal Trainer 4 Years Experience | Feb 2014 - Feb 2018
+### Personal Trainer 
+
+4 Years Experience Feb 2014 - Feb 2018
+
 - Worked as a personal trainer, instructor for group classes, and gym instructor.
 - Helped 15 trainees each week reach their goals by providing personalized training programs and guidance.
 - Knowledge and expertise in various fitness techniques used to design effective workout plans for each individual.
