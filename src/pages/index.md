@@ -39,7 +39,7 @@ Self-taught programmer from Ramat Gan, Israel. Hold a B.Sc in nutrition from the
 - Utilized the powerful combination of Polars and SurrealDB for efficient data storage and management.
 - Built the user interface using SolidJs and the server using the Astro and Express frameworks. -->
 
-### [NutriPla](<https://nutriplay.io>)
+### [NutriPlay](<https://nutriplay.io>)
 
 SEO and Software Engineer | Aug 2021 - Current
 
