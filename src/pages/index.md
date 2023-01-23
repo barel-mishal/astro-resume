@@ -30,7 +30,7 @@ Self-taught programmer from Ramat Gan, Israel. Hold a B.Sc in nutrition from the
 
 **Security:** Authentication and Authorization, HTTPS
 
-**Interest in learning:** Rust, Data Structures and Algorithms
+**Interest in learning:** Rust, Data Structures and Algorithms, and Big Cloud Service like Azure
 
 ## Projects Experience
 
@@ -43,24 +43,25 @@ Self-taught programmer from Ramat Gan, Israel. Hold a B.Sc in nutrition from the
 
 SEO and Software Engineer | Aug 2021 - Current
 
-- Built a fast tool to calculate all the food items that their patients eat in order to create a nutritional anamnesis.
-- Developed a smart search feature with algorithms such as word distance and ranking algorithms to sort the nutrtional dataset of Ministry of health.
-- Apporached by the head of research at the Ministry of Health.
+- Successfully handled all aspects of the project, including both backend and frontend development
+- Approached by the head of research at the Ministry of Health
+- Built a fast tool to calculate all the food items that patients eat in order to create a nutritional anamnesis
+- Developed a smart search feature using algorithms such as word distance and ranking algorithms to sort the nutritional dataset of the Ministry of Health
 
 ### [Targil Mehkar](<https://docs.google.com/document/d/1riWszdZaGeG8sQb_88hFiMAbSOKesnofOflr3RHObHo/edit?usp=sharing>)
 
 Software Engineer at Betty Lab | Jun 2020 - Aug 2021
 
-- Worked on creating an analysis tool to help researchers gain insights from the extensive datasets produced by the metabolic cages.
-- Worked closely with Ofer Gover during this time.
+- Worked on creating an analysis tool to help researchers gain insights from the extensive datasets produced by the metabolic cages
+- Worked closely with Ofer Gover during this time
 
 ### Personal Trainer 
 
 4 Years Experience Feb 2014 - Feb 2018
 
-- Worked as a personal trainer, instructor for group classes, and gym instructor.
-- Helped 15 trainees each week reach their goals by providing personalized training programs and guidance.
-- Knowledge and expertise in various fitness techniques used to design effective workout plans for each individual.
+- Worked as a personal trainer, instructor for group classes, and gym instructor
+- Helped 15 trainees each week reach their goals by providing personalized training programs and guidance
+- Knowledge and expertise in various fitness techniques used to design effective workout plans for each individual
 
 ## Education
 
