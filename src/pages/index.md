@@ -10,7 +10,7 @@ layout: ../layouts/Minimalist.astro
 
 Ramat Gan, IL | barel.mishal@mail.huji.ac.il | 0509042020 | [GitHub](<https://github.com/barel-mishal>) | [Linkedin](<https://www.linkedin.com/in/barel-mishal/>) 
 
-Self-taught programmer from Ramat Gan, Israel. Hold a B.Sc in nutrition from the Hebrew University. Currently, currently working on a big project called FoodIt.ai, which is a website designed to generate recipes and assist food bloggers in advertising their creations. The platform provides useful tools for quickly generating recipes and offers a unique platform for recognition on the web. Aspire to be a software engineer, working on big projects in the field of nutrition to make a change.
+Self-taught programmer from Ramat Gan, Israel. Hold a B.Sc in nutrition from the Hebrew University. Currently, working on a big project called FoodIt.ai, which is a website designed to generate recipes and assist food bloggers in advertising their creations. The platform provides useful tools for quickly generating recipes and offers a unique platform for recognition on the web. Aspire to be a software engineer, working on big projects in the field of nutrition to make a change.
 
 ## Skills
 
