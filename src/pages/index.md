@@ -41,7 +41,7 @@ Self-taught programmer from Ramat Gan, Israel. Hold a B.Sc in nutrition from the
 
 ### [NutriPlay](<https://nutriplay.io>)
 
-SEO and Software Engineer | Aug 2021 - Current
+CEO and Software Engineer | Aug 2021 - Current
 
 - Successfully handled all aspects of the project, including both backend and frontend development
 - Approached by the head of research at the Ministry of Health
